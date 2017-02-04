@@ -1,1 +1,2 @@
 # Test_gitbook_SecondTry
+第二次尝试建立gitBook，判断是否为Initial commit文件导致电子书目录无法点击跳转。
